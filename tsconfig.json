@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": false,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true
+    },
+    "files": [
+        "./3/class.ts"
+    ],
+    "include": [
+        "./3"
+    ],
+    "exclude": [
+        "./1",
+        "./2"
+    ]
+}
